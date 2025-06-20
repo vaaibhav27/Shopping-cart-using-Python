@@ -29,9 +29,7 @@ Technologies:
 
 
 Python 3
-
 OOPS concepts
-
 CLI (Command-Line Interface)
 
 
@@ -40,7 +38,6 @@ Sample Products:
 
 
  COREMAN (DSA Book) – A physical book
- 
  E-Book of COREMAN (DSA Book) – A downloadable version
 
 
