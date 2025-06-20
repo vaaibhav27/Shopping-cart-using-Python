@@ -1,4 +1,5 @@
 Console-Based Online Shopping Cart (Python Project)
+
 A beginner-friendly console-based Shopping Cart System built in Python using Object-Oriented Programming (OOP) principles like inheritance, encapsulation, and composition. This project allows users to browse products, add/remove items from the cart, update quantities, and view their total bill — all through a simple command-line interface.
 
 Features:
